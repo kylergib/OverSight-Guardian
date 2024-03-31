@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Logger</key>
+	<dict>
+		<key>AppManager</key>
+		<string>info</string>
+		<key>APIServer</key>
+		<string>debug</string>
+		<key>MediaDevice</key>
+		<string>info</string>
+		<key>DeviceManager</key>
+		<string>info</string>
+		<key>AppSettings</key>
+		<string>info</string>
+		<key>BatteryManager</key>
+		<string>info</string>
+	</dict>
+</dict>
+</plist>
